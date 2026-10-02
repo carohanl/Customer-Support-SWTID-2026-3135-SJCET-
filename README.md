@@ -1,6 +1,7 @@
 # 🎫 Customer Support Ticket Priority Prediction and Automated Assignment System
 
 DEMO VIDEO:https://drive.google.com/file/d/1YDJtAjkI6D1kwpgYVtr1iUQyjoPeoxvN/view?usp=drivesdk
+DOCUMENT:https://drive.google.com/file/d/1QSJqZnM8nKMY4wmpNCgRLxcP985z3fiB/view?usp=drivesdk
 
 ![Salesforce](https://img.shields.io/badge/Platform-Salesforce-blue)
 ![Agentforce](https://img.shields.io/badge/AI-Agentforce-purple)
